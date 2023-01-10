@@ -1,13 +1,11 @@
+
 <template>
-    <div>
-        Hello to Nuxt
-    </div>
+        <div>
+            <NuxtPage />
+        </div>
 </template>
-
 <script setup>
-
 </script>
 
 <style scoped>
-
 </style>
